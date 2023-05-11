@@ -1,6 +1,8 @@
 # Control_relevado_de_esfuerzos
 Automatización de un proceso de relevado de esfuerzos.
 
+![Relevado](https://github.com/alejandro3141592/Control_relevado_de_esfuerzos/blob/main/Relevado.png)
+
 ## Mi papel en el proyecto
 
 Considero que este fue uno de los proyectos que más pusieron a prueba mis habilidades, dado que éstos fueron los circuitos más complicados que he tenido que diseñar desde cero, es decir, no solo me encargué de diseñar la PCB, si no que también tuve que hacer los cálculos y consideraciones pertinenetes para hacer tres circuitos electrónicos que cumplieran ciertas tareas específicas.
